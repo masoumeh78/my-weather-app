@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <header className="navbar">
       <NavLink to="/" className="navbar__brand">
-        <span aria-hidden="true">☁</span> SkyCast
+        <span aria-hidden="true">☁</span> Sky Cast
       </NavLink>
       <nav className="navbar__links" aria-label="Main navigation">
         <NavLink to="/" end>
